@@ -1,5 +1,5 @@
-import CounterApp from "./Lab_03/task1/CounterApp";
+import UserContainer from "./Lab_03/task2/UserContainer";
 
 export default function App() {
-  return <CounterApp />;
+  return <UserContainer />;
 }
